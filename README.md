@@ -59,7 +59,8 @@ to achieve dense connectivity over the state-of-the-art algorithms.
 
 
 ### Experimental Demonstration and Video
-<video src="figures/FCR_demo.mp4" controls width="100%"></video>
+<video src="https://github.com/herolab-uga/distributed-fast-connectivity-restroration/raw/main/figures/FCR_demo.mp4" controls width="100%"></video>
+
 
 
 ## Repository
